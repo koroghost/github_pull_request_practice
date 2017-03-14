@@ -7,3 +7,5 @@ github_pull_request_practice~~~
 ## Edited on original repository - koroghost/repo
 
 
+## Edited on forked repository - koronya/repo
+
